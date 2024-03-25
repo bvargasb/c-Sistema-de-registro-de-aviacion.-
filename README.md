@@ -1,2 +1,3 @@
 # c-Sistema-de-registro-de-aviacion.-
 
+Sistema de aviación escrito en c#, todo desarrollado en consola. Con múltiples pantallas para cada tipo de registro desde el vuelo, clientes, aviones, y las consultas respectivas de dichos atributos. Es modular y escrito con programación orientada a objetos. Usé un arreglo lineal de objetos de 20 espacios como máximo, pero es posible cambiar el arreglo por un arrayList y volver dinámico el guardado de los datos. Usé LINQ para búsquedas en arreglos de objetos, el lenguaje de consulta de c# y posee validaciones en todos los niveles para evitar la redundancia de información en vuelos. 
