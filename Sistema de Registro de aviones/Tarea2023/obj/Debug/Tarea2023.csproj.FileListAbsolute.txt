@@ -1,0 +1,8 @@
+C:\Users\Personal\source\repos\Tarea2023\Tarea2023\bin\Debug\Tarea2023.exe.config
+C:\Users\Personal\source\repos\Tarea2023\Tarea2023\bin\Debug\Tarea2023.exe
+C:\Users\Personal\source\repos\Tarea2023\Tarea2023\bin\Debug\Tarea2023.pdb
+C:\Users\Personal\source\repos\Tarea2023\Tarea2023\obj\Debug\Tarea2023.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\Tarea2023\Tarea2023\obj\Debug\Tarea2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Personal\source\repos\Tarea2023\Tarea2023\obj\Debug\Tarea2023.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\Tarea2023\Tarea2023\obj\Debug\Tarea2023.exe
+C:\Users\Personal\source\repos\Tarea2023\Tarea2023\obj\Debug\Tarea2023.pdb
